@@ -1,2 +1,2 @@
 # blacktechproject
-Practical class
+Practical class for all stars in class
